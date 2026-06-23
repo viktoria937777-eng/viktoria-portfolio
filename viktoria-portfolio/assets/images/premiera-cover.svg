@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#e8e0d8"/>
+  <path d="M0 350 L200 250 L400 320 L600 200 L800 280 L800 500 L0 500 Z" fill="#d4ccc4"/>
+  <circle cx="650" cy="120" r="50" fill="#f5e6d0"/>
+  <text x="400" y="260" text-anchor="middle" font-family="system-ui,sans-serif" font-size="24" fill="#8a8078">@5<L5@0</text>
+</svg>
