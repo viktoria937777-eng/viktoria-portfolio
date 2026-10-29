@@ -89,6 +89,8 @@
     const lightboxClose = lightbox.querySelector('.lightbox__close');
 
     galleryItems.forEach((item) => {
+      if (item.tagName === 'A' || item.closest('a')) return;
+
       item.addEventListener('click', () => {
         const img = item.querySelector('img');
         if (img) {
